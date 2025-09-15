@@ -44,7 +44,7 @@ src/
 
 2. **Build the project:**
    ```sh
-   mvn clean install
+   mvn clean compile
    ```
 
 3. **Generate Java classes from `.proto` files:**
