@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+//package example01;
+//option java_package = "org.amadeus.nxitech.example01";
+//option java_multiple_files = true;
+//message Person {
+//  string name = 1;
+//  int32 age = 2;
+//}
